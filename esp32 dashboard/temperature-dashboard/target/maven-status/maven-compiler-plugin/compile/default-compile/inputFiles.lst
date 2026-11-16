@@ -1,0 +1,6 @@
+C:\code\DS code\esp32 dashboard\temperature-dashboard\src\main\java\com\esp32\App.java
+C:\code\DS code\esp32 dashboard\temperature-dashboard\src\main\java\com\esp32\controller\DashboardController.java
+C:\code\DS code\esp32 dashboard\temperature-dashboard\src\main\java\com\esp32\model\TemperatureReading.java
+C:\code\DS code\esp32 dashboard\temperature-dashboard\src\main\java\com\esp32\service\CsvExportService.java
+C:\code\DS code\esp32 dashboard\temperature-dashboard\src\main\java\com\esp32\service\SerialCommunicationService.java
+C:\code\DS code\esp32 dashboard\temperature-dashboard\src\main\java\com\esp32\service\TemperatureService.java

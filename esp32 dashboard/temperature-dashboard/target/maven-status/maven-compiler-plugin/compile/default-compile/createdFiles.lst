@@ -1,0 +1,7 @@
+com\esp32\controller\DashboardController$1.class
+com\esp32\controller\DashboardController.class
+com\esp32\model\TemperatureReading.class
+com\esp32\App.class
+com\esp32\service\SerialCommunicationService.class
+com\esp32\service\TemperatureService.class
+com\esp32\service\CsvExportService.class
